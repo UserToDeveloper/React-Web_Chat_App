@@ -10,7 +10,7 @@ import FakeBackend from './helpers/fake-backend';
 
 //Firebase helpers
 
-fackeBackend();
+fakeBackend();
 
 
 function App() {
